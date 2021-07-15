@@ -80,3 +80,6 @@ Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Compu
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryanegi&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shauryanegi" /> </p>
+  
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shauryanegi&theme=reactdark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
