@@ -14,12 +14,6 @@ Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Compu
 
 - 📫 How to reach me **shauryanegi17@gmail.com**
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryanegi&label=Profile%20views&color=0e75b6&style=flat" alt="shauryanegi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shauryanegi" alt="shauryanegi" /></a> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shauryanegi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shauryanegi/" height="30" width="40" /></a>
@@ -40,4 +34,10 @@ Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Compu
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauryanegi&show_icons=true&locale=en" alt="shauryanegi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryanegi&" alt="shauryanegi" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryanegi&label=Profile%20views&color=0e75b6&style=flat" alt="shauryanegi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shauryanegi" alt="shauryanegi" /></a> </p>
+
 
