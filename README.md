@@ -10,7 +10,7 @@
 My name is Shaurya Negi and I'm a data analyst/machine learning engineer. I'm from India, living in New Delhi and currently working at IBM.
 I really enjoy learning languages and frameworks like Scikit Learn, as well as work in TensorFlow. I also enjoy databases, UI, UX, and cryptocurrencies in general.
 
-<h2> About Me </h2> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me </h2> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -37,6 +37,7 @@ I really enjoy learning languages and frameworks like Scikit Learn, as well as w
 
 
 Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Computing Methods | ML Algorithms | Data Visualization
+  
 
 
 - 🔭 I’m currently working on **building a DL project which predicts the future prices of Bitcoin and other Altcoins.**
