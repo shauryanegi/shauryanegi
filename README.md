@@ -14,7 +14,7 @@
 My name is Shaurya Negi and I'm a data analyst/machine learning engineer. I'm from India, living in New Delhi and currently working at IBM.
 I really enjoy learning languages and frameworks like Scikit Learn, as well as work in TensorFlow. I also enjoy databases, UI, UX, and cryptocurrencies in general.
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -51,7 +51,7 @@ Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Compu
 
 - 📫 How to reach me **shauryanegi17@gmail.com**
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://linkedin.com/in/shauryanegi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shauryanegi/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12883012/shauryanegi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12883012/shauryanegi" height="30" width="40" /></a>
