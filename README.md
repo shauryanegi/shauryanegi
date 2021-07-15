@@ -38,15 +38,6 @@ I really enjoy learning languages and frameworks like Scikit Learn, as well as w
 Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Computing Methods | ML Algorithms | Data Visualization
   
 
-
-- 🔭 I’m currently working on **building a DL project which predicts the future prices of Bitcoin and other Altcoins.**
-
-- 🌱 I’m currently learning **Deep Learning with Time Series data**
-
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning**
-
-- 📫 How to reach me **shauryanegi17@gmail.com**
-
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://linkedin.com/in/shauryanegi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shauryanegi/" height="30" width="40" /></a>
