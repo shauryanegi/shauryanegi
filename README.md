@@ -72,6 +72,9 @@ Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Compu
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shauryanegi&show_icons=true&theme=dark)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shauryanegi&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryanegi&" alt="shauryanegi" /></p>
