@@ -79,9 +79,8 @@ Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Compu
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryanegi&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shauryanegi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shauryanegi&theme=dark" alt="shauryanegi" /></a> </p>
-  
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shauryanegi&theme=dark" alt="shauryanegi"&theme=dark  /></a> </p>
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   
