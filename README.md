@@ -5,7 +5,7 @@
 
 
 </p>
-<div size='20px'> Hi! I am Shaurya! Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> i! My name is Shaurya. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
   
 
