@@ -13,7 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on a project which predicts the future prices of Bitcoin and other Altcoins.
+- 🔭 I’m currently working on a project which predicts the future prices of Bitcoin and other Altcoins
 
 - 🌱 I’m currently learning Deep Learning with Time Series data 
 
