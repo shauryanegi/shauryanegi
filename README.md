@@ -11,12 +11,9 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img src = https://github.com/SP-XD/SP-XD/raw/main/images/dev-working.gif width="250" height="250" align = "right"/>
-  
- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
-  
-  
-  <img src = https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif/>
+<img src = https://github.com/SP-XD/SP-XD/raw/main/images/dev-working.gif width="300" height="300" align = "right"/>
+    
+ <img src = https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif/>
 
 
 - 🔭 I’m currently working on a project which predicts the future prices of Bitcoin and other Altcoins
