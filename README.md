@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on a project which predicts the future prices of Bitcoin and other Altcoins
 
-- 🌱 <img src https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif> I’m currently learning Deep Learning with Time Series data 
+- 🌱 <img src = https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif/> I’m currently learning Deep Learning with Time Series data 
 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles  
