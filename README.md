@@ -55,7 +55,9 @@ Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Compu
 
 
 <img src= https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif >
-
+  
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
@@ -78,9 +80,3 @@ Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Compu
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryanegi&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shauryanegi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shauryanegi&theme=dark" alt="shauryanegi"&theme=dark  /></a> </p>
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-  
