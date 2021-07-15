@@ -14,7 +14,7 @@
 <img src = https://github.com/SP-XD/SP-XD/raw/main/images/dev-working.gif/>
   
   
-  <img src = https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif/>
+  <img src = https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working.gif/>
 
 
 - 🔭 I’m currently working on a project which predicts the future prices of Bitcoin and other Altcoins
