@@ -21,6 +21,8 @@ Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Compu
 <a href="https://linkedin.com/in/shauryanegi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shauryanegi/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12883012/shauryanegi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12883012/shauryanegi" height="30" width="40" /></a>
 <a href="https://kaggle.com/shauryanegi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shauryanegi" height="30" width="40" /></a>
+<a href = 'https://www.github.com/shauryanegi'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
