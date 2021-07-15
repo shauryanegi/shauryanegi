@@ -1,7 +1,8 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shauryanegi.shauryanegi)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shauryanegi.shauryanegi) <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryanegi&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shauryanegi" /> </p>
+
 
 </p>
 <div size='20px'> Hi! Thank You for taking the time to view my GitHub Profile :smile: 
@@ -76,8 +77,6 @@ Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Compu
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryanegi&theme=dark" alt="shauryanegi" /></p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryanegi&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shauryanegi" /> </p>
   
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shauryanegi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
