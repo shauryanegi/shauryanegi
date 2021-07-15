@@ -6,6 +6,8 @@ I really enjoy learning languages and frameworks like Scikit Learn, as well as w
 
 Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Computing Methods | ML Algorithms | Data Visualization
 
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
 - 🔭 I’m currently working on **building a DL project which predicts the future prices of Bitcoin and other Altcoins.**
 
 - 🌱 I’m currently learning **Deep Learning with Time Series data**
