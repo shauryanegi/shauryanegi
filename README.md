@@ -68,10 +68,10 @@ Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Compu
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shauryanegi&show_icons=true&locale=en&layout=compact&theme=dark&layout=compact" alt="shauryanegi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shauryanegi&show_icons=true&locale=en&layout=compact&theme=dark" alt="shauryanegi" /></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shauryanegi&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shauryanegi&show_icons=true&theme=dark&layout=compact)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryanegi&theme=dark" alt="shauryanegi" /></p>
