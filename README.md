@@ -1,6 +1,5 @@
 ### Hi there 👋, Shaurya Negi
 #### Data Science , Machine Learning and Deep Learning
-![Data Science , Machine Learning and Deep Learning]
 
 My name is Shaurya Negi and I'm a data analyst/machine learning engineer. I'm from India, living in New Delhi and currently working at IBM.
 I really enjoy learning languages and frameworks like Scikit Learn, as well as work in TensorFlow. I also enjoy databases, UI, UX, and cryptocurrencies in general.
