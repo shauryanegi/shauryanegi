@@ -10,18 +10,19 @@
 My name is Shaurya Negi and I'm a data analyst/machine learning engineer. I'm from India, living in New Delhi and currently working at IBM.
 I really enjoy learning languages and frameworks like Scikit Learn, as well as work in TensorFlow. I also enjoy databases, UI, UX, and cryptocurrencies in general.
 
-<h1> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h1>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="60" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on building a DL project which predicts the future prices of Bitcoin and other Altcoins.
+- 🔭 I’m currently working on a project which predicts the future prices of Bitcoin and other Altcoins.
 
 - 🌱 I’m currently learning Deep Learning with Time Series data 
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
 
-- 💬 Talk to me about Data Science, Machine Learning, Deep Learning 
+- 👯 I’m looking to collaborate on Projects,Tech Articles  
+
+- 💬 Talk to me about Data Science, Machine Learning, Deep Learning  
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -33,6 +34,7 @@ I really enjoy learning languages and frameworks like Scikit Learn, as well as w
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=redis&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+  
 
 
 Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Computing Methods | ML Algorithms | Data Visualization
