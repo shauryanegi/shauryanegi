@@ -13,7 +13,7 @@
 
 <img width="25%" align="left" src = https://github.com/SP-XD/SP-XD/raw/main/images/dev-working.gif width="180" height="180"/>
   
- <img align = "right" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> 
+ <img align = "left" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px> 
     
  <img src = https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif/>
   
