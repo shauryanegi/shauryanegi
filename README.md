@@ -87,3 +87,6 @@ Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Compu
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shauryanegi" alt="shauryanegi" /></a> </p>
 
 
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
