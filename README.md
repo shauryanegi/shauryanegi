@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
@@ -73,14 +69,15 @@ Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Compu
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shauryanegi&show_icons=true&locale=en&layout=compact" alt="shauryanegi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauryanegi&show_icons=true&locale=en" alt="shauryanegi" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shauryanegi&show_icons=true&theme=dark)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryanegi&" alt="shauryanegi" /></p>
 
