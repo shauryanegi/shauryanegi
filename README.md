@@ -11,7 +11,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="30%" src = https://github.com/SP-XD/SP-XD/raw/main/images/dev-working.gif width="200" height="200"/>
+<img width="30%" align="right" src = https://github.com/SP-XD/SP-XD/raw/main/images/dev-working.gif width="220" height="220"/>
   
     
  <img src = https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif/>
