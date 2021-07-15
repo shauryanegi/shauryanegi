@@ -1,7 +1,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shauryanegi.shauryanegi) <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryanegi&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="shauryanegi" /> </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shauryanegi.shauryanegi) <p align="left"> 
 
 
 </p>
