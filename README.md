@@ -10,7 +10,7 @@
 My name is Shaurya Negi and I'm a data analyst/machine learning engineer. I'm from India, living in New Delhi and currently working at IBM.
 I really enjoy learning languages and frameworks like Scikit Learn, as well as work in TensorFlow. I also enjoy databases, UI, UX, and cryptocurrencies in general.
 
-<h2> About Me </h2>
+<h2> About Me </h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
