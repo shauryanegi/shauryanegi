@@ -81,6 +81,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryanegi&theme=dark" alt="shauryanegi" /></p>
+  
+ 
+ < img src =https://github.com/shauryanegi/shauryanegi/blob/main/shauryanegi-2020.stl>
 
   
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shauryanegi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
