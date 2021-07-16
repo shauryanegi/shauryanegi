@@ -82,7 +82,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryanegi&theme=dark" alt="shauryanegi" /></p>
   
  
- <h2> Watch my contribution graph get eaten by the snake 🐍 </h2>
+ <h2> Let the snake enjoy my contribution graph 🐍 </h2>
  
 <!-- platane/snk works, it just puts it on a new branch -->
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg) 
