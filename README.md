@@ -72,13 +72,13 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shauryanegi&show_icons=true&locale=en&layout=compact&theme=dark" alt="shauryanegi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shauryanegi&show_icons=true&locale=en&layout=compact&theme=dark" alt="shauryanegi" /></p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shauryanegi&show_icons=true&theme=dark&count_private=True&include_all_commits=True)
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryanegi&theme=dark" alt="shauryanegi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryanegi&theme=dark" alt="shauryanegi" /></p>
 
   
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shauryanegi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
