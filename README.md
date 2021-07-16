@@ -1,8 +1,6 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shauryanegi.shauryanegi) <p align="left"> 
-
+  
 </p>
 <div size='20px'> Hi! My name is Shaurya. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
