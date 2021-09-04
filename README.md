@@ -8,7 +8,6 @@
 
 <h2> About Me </h2>
 
-<img width="25%" align="left" src = https://github.com/SP-XD/SP-XD/raw/main/images/dev-working.gif width="200" height="180"/>
   
  <img align = "left" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px> 
     
@@ -58,6 +57,7 @@
 <img src= https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif >
   
   
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
@@ -67,7 +67,7 @@
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
+  
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shauryanegi&show_icons=true&locale=en&layout=compact&theme=dark" alt="shauryanegi" /></p>
 
@@ -75,6 +75,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryanegi&theme=dark" alt="shauryanegi" /></p>
+  
+<img src =   https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif >
+
   
  
  <h2> Let the snake enjoy my contribution graph 🐍 </h2>
