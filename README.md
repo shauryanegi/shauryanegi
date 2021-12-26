@@ -17,12 +17,12 @@
 
 - 🔭 I’m currently working on a project which predicts the future prices of Bitcoin and other Altcoins
 
-- 🌱 I’m currently learning Deep Learning with Time Series data 
+- 🌱 I’m currently learning Javascript so that I could implement Deep Learning Models on the browser using TensorFlow.js
 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles  
 
-- 💬 Talk to me about Data Science, Machine Learning, Deep Learning , Blockchain and Cryptocurrencies 
+- 💬 Talk to me about Software Development, Data Science, Machine Learning, Deep Learning , Blockchain and Cryptocurrencies 
   
   
 
@@ -39,7 +39,7 @@
   
 
 
-<h2> Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Computing Methods | ML Algorithms | Data Visualization </h2>
+<h2> Skills: Data Analysis | Predictive Modelling | Deep Learning | Statistical Computing Methods | ML Algorithms | Full Stack Web Development | Data Visualization </h2>
   
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
