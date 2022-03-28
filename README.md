@@ -35,8 +35,11 @@
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=tensorflow&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'> </a>
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
+<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=leetcode&sort= > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/leet-code.svg'> </a>
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=redis&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=babel&sort= > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/babel.svg'> </a>
+  
   
 
 
