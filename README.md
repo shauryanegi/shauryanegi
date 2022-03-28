@@ -30,12 +30,9 @@
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>  
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=mongo&sort= > <img width ='32px' src =' https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mongodb.svg'> </a>
-  https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mongodb.svg
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/express.svg'> </a>
-  https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/express.svg
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=react&sort= > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/reactjs.svg'> </a>
-  https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/reactjs.svg
- <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/nodejs.svg'> </a>
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
