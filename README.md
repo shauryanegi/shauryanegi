@@ -47,7 +47,7 @@
   
 
 
-<h2> Skills: Full Stack Web Development | Software Development | Data Analysis | Deep Learning | | ML Algorithms | Data Visualization </h2>
+<h2> Skills: Full Stack Web Development | Software Development | Data Science | Deep Learning | Machine Learning | Data Visualization </h2>
   
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
