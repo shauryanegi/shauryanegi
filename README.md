@@ -1,8 +1,8 @@
 <div align="center">
   
-  # 🌟 Welcome to My Data Universe 🚀
+  # Data Scientist & ML Engineer 👨‍🔬
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Blockchain+Enthusiast+%E2%9B%93)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Data+Architecture+%F0%9F%93%8A;Deep+Learning+%F0%9F%A7%A0;MLOps+%F0%9F%9A%80)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -32,26 +32,28 @@
     <td width="50%">
       <h3 align="center">🤖 Machine Learning</h3>
       <div align="center">
-        <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%"><br>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEwamp4OWp2ZjB5Z2ltbHBxeDhqOGY4Nm51cjQyaGV0cWx0Y3JobiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif" width="100%"><br>
         <details>
           <summary>Key Skills</summary>
           • Deep Learning & Neural Networks<br>
           • Computer Vision & NLP<br>
           • Reinforcement Learning<br>
-          • Time Series Analysis
+          • Time Series Analysis<br>
+          • Model Deployment & MLOps
         </details>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">📊 Data Science</h3>
       <div align="center">
-        <img src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%"><br>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRqY2Nxa3E2NWpmOWF4ZXJtM3prNDVxbXBpYzFwYTlwYnU2MXBqciZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%"><br>
         <details>
           <summary>Key Skills</summary>
           • Statistical Analysis<br>
           • Data Visualization<br>
           • Predictive Modeling<br>
-          • A/B Testing
+          • A/B Testing<br>
+          • ETL Pipeline Development
         </details>
       </div>
     </td>
@@ -74,6 +76,12 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+
+### 🚀 DevOps & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 💾 Database Expertise
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -99,9 +107,9 @@
       </div>
     </td>
     <td width="33%">
-      <h3 align="center">📊 Data Pipeline</h3>
+      <h3 align="center">📊 MLOps Pipeline</h3>
       <div align="center">
-        Building scalable data processing pipelines for real-time market data analysis.
+        Building scalable ML pipelines with FastAPI, Docker, and Kubernetes for production deployment.
       </div>
     </td>
   </tr>
@@ -146,7 +154,8 @@
     • 💡 I contribute to open-source ML projects<br>
     • 🎮 I use game theory in ML model optimization<br>
     • 🌱 I'm currently exploring quantum computing<br>
-    • 🎯 2024 Goal: Deploy 5 production ML models
+    • 🎯 2024 Goal: Deploy 5 production ML models<br>
+    • 🚀 Building scalable ML systems with FastAPI & K8s
   </details>
 </div>
 
