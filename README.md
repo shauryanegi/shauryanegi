@@ -1,97 +1,82 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
-  
-</p>
-<div size='20px'> Hi! My name is Shaurya. Thank You for taking the time to view my GitHub Profile :smile: 
+# Hello, Fellow Data Enthusiasts! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3ODZjMjk0Y2UzZmM1MzFkYjg3M2E2NzU1NjFiYmE1ZDAyZjNlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600px">
 </div>
-  
 
-<h2> About Me </h2>
+## 🚀 About Me
+Data Scientist and Machine Learning Engineer passionate about transforming data into actionable insights. I specialize in developing scalable ML solutions and implementing deep learning models for real-world applications.
 
-  
- <img align = "left" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px> 
-    
- <img src = https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif/>
-  
+### 🔭 Current Work
+- Developing predictive models for cryptocurrency price forecasting using advanced time series analysis
+- Implementing deep learning models with TensorFlow.js for browser-based inference
+- Exploring novel approaches in blockchain analytics and cryptocurrency market behavior
 
+### 💻 Technical Stack
 
-- 🔭 I’m currently working on a project which predicts the future prices of Bitcoin and other Altcoins
+#### Machine Learning & Deep Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-- 🌱 I’m currently learning Javascript so that I could implement Deep Learning Models on the browser using TensorFlow.js
+#### Data Engineering & Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+#### Web Development & Deployment
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles  
+### 🎯 Key Areas of Expertise
+- Machine Learning Model Development & Deployment
+- Deep Learning & Neural Networks
+- Time Series Analysis & Forecasting
+- Natural Language Processing
+- Computer Vision
+- Data Pipeline Development
+- MLOps & Model Monitoring
+- Full Stack Development
 
-- 💬 Talk to me about Software Development, Data Science, Machine Learning, Deep Learning , Blockchain and Cryptocurrencies 
-  
-  
+### 📈 GitHub Stats
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>  
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/express.svg'> </a>
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=tensorflow&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'> </a>
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=leetcode&sort= > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/leet-code.svg'> </a>
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=redis&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/shauryanegi?tab=repositories&q=&type=&language=babel&sort= > <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/babel.svg'> </a>
-  
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shauryanegi&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryanegi&theme=radical" alt="GitHub Streak" />
+</div>
 
-<h2> Skills: Full Stack Web Development | Software Development | Data Science | Deep Learning | Machine Learning | Data Visualization </h2>
-  
+### 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shauryanegi&theme=radical&row=1" alt="trophy" />
+</div>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align="left">
-<a href="https://linkedin.com/in/shauryanegi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shauryanegi/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12883012/shauryanegi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12883012/shauryanegi" height="30" width="40" /></a>
-<a href="https://kaggle.com/shauryanegi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shauryanegi" height="30" width="40" /></a>
-<a href = 'https://www.github.com/shauryanegi'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+### 🔥 Skills Distribution
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryanegi&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
+### 🤝 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/shauryanegi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/12883012/shauryanegi"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://kaggle.com/shauryanegi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 </p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+### 🐍 Contribution Graph
+![Snake animation](https://github.com/shauryanegi/shauryanegi/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
 
-<img src= https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif >
-  
-  
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-  
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shauryanegi&show_icons=true&locale=en&layout=compact&theme=dark" alt="shauryanegi" /></p>
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryanegi&theme=dark" alt="shauryanegi" /></p>
-  
-<img src =   https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif >
-
-  
- 
- <h2> Let the snake enjoy my contribution graph 🐍 </h2>
- 
-<!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg) 
-  
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shauryanegi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shauryanegi&color=blueviolet" alt="Profile views" />
+</div>
