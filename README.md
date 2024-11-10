@@ -1,8 +1,8 @@
 <div align="center">
   
-  # Data Scientist & ML Engineer
+  # 🌟 Welcome to My Data Universe 🚀
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=Building+AI+Solutions+%F0%9F%A4%96;Data+Driven+Decision+Maker+%F0%9F%93%8A;Deep+Learning+Specialist+%F0%9F%A7%A0;MLOps+Practitioner+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Blockchain+Enthusiast+%E2%9B%93)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -32,26 +32,26 @@
     <td width="50%">
       <h3 align="center">🤖 Machine Learning</h3>
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="100%"><br>
+        <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%"><br>
         <details>
           <summary>Key Skills</summary>
-          • Deep Neural Networks & CNN/RNN Architectures<br>
-          • NLP & Transformer Models<br>
-          • Computer Vision & Object Detection<br>
-          • Reinforcement Learning & AutoML
+          • Deep Learning & Neural Networks<br>
+          • Computer Vision & NLP<br>
+          • Reinforcement Learning<br>
+          • Time Series Analysis
         </details>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">📊 Data Science</h3>
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="100%"><br>
+        <img src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%"><br>
         <details>
           <summary>Key Skills</summary>
-          • Advanced Statistical Analysis<br>
-          • Interactive Data Visualization<br>
-          • Feature Engineering & Selection<br>
-          • Causal Inference & A/B Testing
+          • Statistical Analysis<br>
+          • Data Visualization<br>
+          • Predictive Modeling<br>
+          • A/B Testing
         </details>
       </div>
     </td>
