@@ -29,31 +29,51 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Machine Learning</h3>
+    <td width="33%">
+      <h3 align="center">🤖 Machine Learning & AI</h3>
       <div align="center">
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEwamp4OWp2ZjB5Z2ltbHBxeDhqOGY4Nm51cjQyaGV0cWx0Y3JobiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif" width="100%"><br>
         <details>
-          <summary>Key Skills</summary>
-          • Deep Learning & Neural Networks<br>
-          • Computer Vision & NLP<br>
+          <summary>Expertise</summary>
+          • Deep Learning & Transformers<br>
+          • Computer Vision & OCR<br>
+          • Natural Language Processing<br>
           • Reinforcement Learning<br>
-          • Time Series Analysis<br>
-          • Model Deployment & MLOps
+          • AutoML & Neural Architecture Search<br>
+          • Generative AI & GANs<br>
+          • Model Interpretability (XAI)
         </details>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">📊 Data Science</h3>
+    <td width="33%">
+      <h3 align="center">📊 Data Engineering</h3>
       <div align="center">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRqY2Nxa3E2NWpmOWF4ZXJtM3prNDVxbXBpYzFwYTlwYnU2MXBqciZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%"><br>
         <details>
-          <summary>Key Skills</summary>
-          • Statistical Analysis<br>
-          • Data Visualization<br>
-          • Predictive Modeling<br>
-          • A/B Testing<br>
-          • ETL Pipeline Development
+          <summary>Expertise</summary>
+          • Data Pipeline Architecture<br>
+          • Stream Processing (Kafka, Spark)<br>
+          • Data Warehousing<br>
+          • ETL/ELT Workflows<br>
+          • Data Quality & Validation<br>
+          • Big Data Processing<br>
+          • Data Governance & Security
+        </details>
+      </div>
+    </td>
+    <td width="33%">
+      <h3 align="center">🚀 MLOps & Cloud</h3>
+      <div align="center">
+        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100%"><br>
+        <details>
+          <summary>Expertise</summary>
+          • CI/CD for ML Models<br>
+          • Model Monitoring & Observability<br>
+          • Cloud Infrastructure (AWS, GCP)<br>
+          • Containerization & Orchestration<br>
+          • Model Serving & Scaling<br>
+          • Feature Stores<br>
+          • Model Registry & Versioning
         </details>
       </div>
     </td>
@@ -64,29 +84,46 @@
 
 <div align="center">
 
-### 🧮 Core Data Stack
+### 🧮 Core ML & Data Stack
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🎯 Specialized Tools
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🎯 Data Processing & Visualization
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
-### 🚀 DevOps & Infrastructure
+### 🚀 MLOps & Cloud Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 💾 Database Expertise
+### 💾 Database & Big Data
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+### 🔧 Development Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
