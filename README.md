@@ -1,82 +1,154 @@
-# Hello, Fellow Data Enthusiasts! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3ODZjMjk0Y2UzZmM1MzFkYjg3M2E2NzU1NjFiYmE1ZDAyZjNlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600px">
+  
+  # 🌟 Welcome to My Data Universe 🚀
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Blockchain+Enthusiast+%E2%9B%93)](https://git.io/typing-svg)
 </div>
 
-## 🚀 About Me
-Data Scientist and Machine Learning Engineer passionate about transforming data into actionable insights. I specialize in developing scalable ML solutions and implementing deep learning models for real-world applications.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
 
-### 🔭 Current Work
-- Developing predictive models for cryptocurrency price forecasting using advanced time series analysis
-- Implementing deep learning models with TensorFlow.js for browser-based inference
-- Exploring novel approaches in blockchain analytics and cryptocurrency market behavior
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=shauryanegi&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryanegi&theme=tokyonight&background=00000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-### 💻 Technical Stack
+<!-- Title Banner -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%">
+</div>
 
-#### Machine Learning & Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+## 🧠 Innovation Areas
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Machine Learning</h3>
+      <div align="center">
+        <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%"><br>
+        <details>
+          <summary>Key Skills</summary>
+          • Deep Learning & Neural Networks<br>
+          • Computer Vision & NLP<br>
+          • Reinforcement Learning<br>
+          • Time Series Analysis
+        </details>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 Data Science</h3>
+      <div align="center">
+        <img src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%"><br>
+        <details>
+          <summary>Key Skills</summary>
+          • Statistical Analysis<br>
+          • Data Visualization<br>
+          • Predictive Modeling<br>
+          • A/B Testing
+        </details>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🧮 Core Data Stack
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### Data Engineering & Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🎯 Specialized Tools
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
-#### Web Development & Deployment
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💾 Database Expertise
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🎯 Key Areas of Expertise
-- Machine Learning Model Development & Deployment
-- Deep Learning & Neural Networks
-- Time Series Analysis & Forecasting
-- Natural Language Processing
-- Computer Vision
-- Data Pipeline Development
-- MLOps & Model Monitoring
-- Full Stack Development
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shauryanegi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
+## 🎯 Current Projects
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">🤖 AI Trading Bot</h3>
+      <div align="center">
+        Developing advanced ML models for cryptocurrency price prediction using deep learning and sentiment analysis.
+      </div>
+    </td>
+    <td width="33%">
+      <h3 align="center">🧬 Deep Learning Models</h3>
+      <div align="center">
+        Implementing TensorFlow.js models for browser-based inference and real-time predictions.
+      </div>
+    </td>
+    <td width="33%">
+      <h3 align="center">📊 Data Pipeline</h3>
+      <div align="center">
+        Building scalable data processing pipelines for real-time market data analysis.
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 📈 Contribution Metrics
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryanegi&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shauryanegi&theme=tokyonight" width="100%">
 </div>
 
-### 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shauryanegi&theme=radical&row=1" alt="trophy" />
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shauryanegi&theme=tokyonight" width="100%">
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shauryanegi&theme=tokyonight" width="100%">
+    </td>
+  </tr>
+</table>
 
-### 🔥 Skills Distribution
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryanegi&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-### 🤝 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/shauryanegi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/12883012/shauryanegi"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://kaggle.com/shauryanegi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
-</p>
-
-### 🐍 Contribution Graph
-![Snake animation](https://github.com/shauryanegi/shauryanegi/blob/output/github-contribution-grid-snake.svg)
+## 🤝 Let's Connect and Build Something Amazing!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shauryanegi/)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/shauryanegi)
+  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12883012/shauryanegi)
+  
+  ---
+  <h3>🏆 Profile Trophy Showcase</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=shauryanegi&theme=tokyonight&no-frame=true&column=7" width="100%">
+  
+  ---
+  <h3>✨ Visitor Count</h3>
+  <img src="https://profile-counter.glitch.me/shauryanegi/count.svg" />
+  
+  <details>
+    <summary>🎉 Fun Facts</summary>
+    <br>
+    • 💡 I contribute to open-source ML projects<br>
+    • 🎮 I use game theory in ML model optimization<br>
+    • 🌱 I'm currently exploring quantum computing<br>
+    • 🎯 2024 Goal: Deploy 5 production ML models
+  </details>
 </div>
 
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shauryanegi&color=blueviolet" alt="Profile views" />
-</div>
+<!-- Footer -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
