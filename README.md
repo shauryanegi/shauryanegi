@@ -2,11 +2,7 @@
   
   # Data Scientist & ML Engineer 👨‍🔬
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Data+Architecture+%F0%9F%93%8A;Deep+Learning+%F0%9F%A7%A0;MLOps+%F0%9F%9A%80)](https://git.io/typing-svg)
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433¢er=true&vCenter=true&width=435&lines=Data+Architecture+%F0%9F%93%8A;Deep+Learning+%F0%9F%A7%A0;MLOps+%F0%9F%9A%80;AI/ML+Solutions+%F0%9F%A4%96)](https://git.io/typing-svg)
 </div>
 
 <table align="center">
@@ -32,48 +28,54 @@
     <td width="33%">
       <h3 align="center">🤖 Machine Learning & AI</h3>
       <div align="center">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEwamp4OWp2ZjB5Z2ltbHBxeDhqOGY4Nm51cjQyaGV0cWx0Y3JobiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif" width="100%"><br>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDEwamp4OWp2ZjB5Z2ltbHBxeDhqOGY4Nm51cjQyaGV0cWx0Y3JobiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif" width="50%"><br>
         <details>
           <summary>Expertise</summary>
-          • Deep Learning & Transformers<br>
-          • Computer Vision & OCR<br>
-          • Natural Language Processing<br>
-          • Reinforcement Learning<br>
-          • AutoML & Neural Architecture Search<br>
-          • Generative AI & GANs<br>
-          • Model Interpretability (XAI)
+          <ul>
+            <li>Deep Learning & Transformers (Experience building CNNs and Transformers)</li>
+            <li>Computer Vision & OCR (Proficient with object detection and text recognition)</li>
+            <li>Natural Language Processing</li>
+            <li>Reinforcement Learning</li>
+            <li>AutoML & Neural Architecture Search</li>
+            <li>Generative AI & GANs</li>
+            <li>Model Interpretability (XAI)</li>
+          </ul>
         </details>
       </div>
     </td>
     <td width="33%">
       <h3 align="center">📊 Data Engineering</h3>
       <div align="center">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRqY2Nxa3E2NWpmOWF4ZXJtM3prNDVxbXBpYzFwYTlwYnU2MXBqciZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%"><br>
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRqY2Nxa3E2NWpmOWF4ZXJtM3prNDVxbXBpYzFwYTlwYnU2MXBqciZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50%"><br>
         <details>
           <summary>Expertise</summary>
-          • Data Pipeline Architecture<br>
-          • Stream Processing (Kafka, Spark)<br>
-          • Data Warehousing<br>
-          • ETL/ELT Workflows<br>
-          • Data Quality & Validation<br>
-          • Big Data Processing<br>
-          • Data Governance & Security
+          <ul>
+            <li>Data Pipeline Architecture (Experience building end-to-end ETL pipelines)</li>
+            <li>Stream Processing (Kafka, Spark)</li>
+            <li>Data Warehousing</li>
+            <li>ETL/ELT Workflows</li>
+            <li>Data Quality & Validation</li>
+            <li>Big Data Processing</li>
+            <li>Data Governance & Security</li>
+           </ul>
         </details>
       </div>
     </td>
     <td width="33%">
       <h3 align="center">🚀 MLOps & Cloud</h3>
       <div align="center">
-        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100%"><br>
+        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50%"><br>
         <details>
           <summary>Expertise</summary>
-          • CI/CD for ML Models<br>
-          • Model Monitoring & Observability<br>
-          • Cloud Infrastructure (AWS, GCP)<br>
-          • Containerization & Orchestration<br>
-          • Model Serving & Scaling<br>
-          • Feature Stores<br>
-          • Model Registry & Versioning
+            <ul>
+            <li>CI/CD for ML Models (Implemented CI/CD for ML model deployments using GitHub Actions)</li>
+            <li>Model Monitoring & Observability</li>
+            <li>Cloud Infrastructure (AWS, GCP)</li>
+            <li>Containerization & Orchestration</li>
+            <li>Model Serving & Scaling</li>
+             <li>Feature Stores</li>
+            <li>Model Registry & Versioning</li>
+           </ul>
         </details>
       </div>
     </td>
@@ -86,8 +88,6 @@
 
 ### 🧮 Core ML & Data Stack
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -127,31 +127,6 @@
 
 </div>
 
-## 🎯 Current Projects
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3 align="center">🤖 AI Trading Bot</h3>
-      <div align="center">
-        Developing advanced ML models for cryptocurrency price prediction using deep learning and sentiment analysis.
-      </div>
-    </td>
-    <td width="33%">
-      <h3 align="center">🧬 Deep Learning Models</h3>
-      <div align="center">
-        Implementing TensorFlow.js models for browser-based inference and real-time predictions.
-      </div>
-    </td>
-    <td width="33%">
-      <h3 align="center">📊 MLOps Pipeline</h3>
-      <div align="center">
-        Building scalable ML pipelines with FastAPI, Docker, and Kubernetes for production deployment.
-      </div>
-    </td>
-  </tr>
-</table>
-
 ## 📈 Contribution Metrics
 
 <div align="center">
@@ -165,6 +140,31 @@
     </td>
     <td width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shauryanegi&theme=tokyonight" width="100%">
+    </td>
+  </tr>
+</table>
+
+## 🎯 Current Projects
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">🤖 AI Trading Bot</h3>
+      <div align="center">
+        Developing an *LSTM*-based model with sentiment analysis for *cryptocurrency price prediction*, focused on reducing losses and maximizing returns.
+      </div>
+    </td>
+    <td width="33%">
+      <h3 align="center">🧬 Deep Learning Models</h3>
+      <div align="center">
+        Implementing TensorFlow.js models for browser-based *real-time predictions*, focusing on optimizing inference time.
+      </div>
+    </td>
+    <td width="33%">
+      <h3 align="center">📊 MLOps Pipeline</h3>
+      <div align="center">
+        Building scalable ML pipelines with FastAPI, Docker, and Kubernetes for production deployment, enabling *continuous delivery of models*.
+      </div>
     </td>
   </tr>
 </table>
