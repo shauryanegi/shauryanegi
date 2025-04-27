@@ -73,15 +73,11 @@
       </ul>
       <br> <!-- Space after list -->
 
-      <!-- Centered Animation Placeholder -->
+      <!-- Centered Animation -->
       <div align="center">
-        <!-- *** FIND A SUITABLE GIF AND REPLACE THIS SRC URL *** -->
-        <!-- Consider hosting it in your repo for reliability -->
         <img src="https://media.giphy.com/media/LmNwrBhejkK9Evyhfg/giphy.gif" alt="Coding Animation" width="200">
-        <!-- Example URLs (check licenses/suitability): -->
-        <!-- https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif (Binary) -->
-        <!-- https://media.giphy.com/media/LmNwrBhejkK9Evyhfg/giphy.gif (Abstract Code) -->
-        <!-- https://media.giphy.com/media/17mNCcKU1mUrbwU5eo/giphy.gif (Network/Brain) -->
+         <!-- You can replace the src with a different GIF URL if you prefer -->
+         <!-- Or host the GIF in your repo and link to the raw file -->
       </div>
 
       <br> <!-- Space before link -->
