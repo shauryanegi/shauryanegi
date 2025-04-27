@@ -27,20 +27,29 @@
 
 ## 🎓 Education
 
-<table>
+<table width="100%">
+ <colgroup>
+    <col width="35%">
+    <col width="65%">
+ </colgroup>
   <tr>
-    <td width="35%" valign="top" align="center">
+    <td valign="top" align="center">
       <br>
       <a href="https://www.gatech.edu/" target="_blank">
-        <img src="https://brand.gatech.edu/sites/default/files/inline-images/gt-logo-gold.png" alt="Georgia Tech Logo" width="150"/>
+        <!-- Increased logo size slightly -->
+        <img src="https://brand.gatech.edu/sites/default/files/inline-images/gt-logo-gold.png" alt="Georgia Tech Logo" width="180"/>
       </a>
       <br><br>
       <strong>Georgia Institute of Technology</strong><br>
       <em>Master of Science - MS, Computer Science</em><br>
       <em>Aug 2022 - May 2025</em>
-      <br><br>
+      <br>
+      <!-- Add GPA, Honors, Thesis Title here if desired -->
+      <!-- e.g., <br><em>GPA: 4.0/4.0</em> -->
+      <!-- e.g., <br><em>Thesis: Advanced RL Techniques</em> -->
+      <br>
     </td>
-    <td width="65%" valign="top">
+    <td valign="top">
       <strong>Relevant Coursework:</strong>
       <ul>
         <li>Machine Learning for Trading</li>
@@ -55,6 +64,11 @@
         <li>Artificial Intelligence, Ethics & Society</li>
         <li>Computer Law</li>
       </ul>
+      <!-- Centered icon to fill vertical space -->
+      <div align="center">
+        <br> <!-- Add some space above the icon -->
+        🎓
+      </div>
     </td>
   </tr>
 </table>
@@ -231,7 +245,7 @@
     • 💡 I contribute to open-source ML projects<br>
     • 🎮 I use game theory in ML model optimization<br>
     • 🌱 I'm currently exploring quantum computing<br>
-    • 🎯 2025 Goal: Deploy 5 production ML models<br>
+    • 🎯 2024 Goal: Deploy 5 production ML models<br>
     • 🚀 Building scalable ML systems with FastAPI & K8s
   </details>
 </div>
