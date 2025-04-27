@@ -45,7 +45,6 @@
     <td valign="top" align="center">
       <br>
       <a href="https://www.gatech.edu/" target="_blank">
-        <!-- Increased logo size slightly -->
         <img src="https://brand.gatech.edu/sites/default/files/inline-images/gt-logo-gold.png" alt="Georgia Tech Logo" width="180"/>
       </a>
       <br><br>
@@ -55,7 +54,7 @@
       <br>
       <!-- Add GPA, Honors, Thesis Title here if desired -->
       <!-- e.g., <br><em>GPA: 4.0/4.0</em> -->
-      <!-- e.g., <br><em>Thesis: Advanced RL Techniques</em> -->
+      <!-- e.g., <br><em>Specialization: Machine Learning</em> -->
       <br>
     </td>
     <td valign="top">
@@ -73,10 +72,15 @@
         <li>Artificial Intelligence, Ethics & Society</li>
         <li>Computer Law</li>
       </ul>
-      <!-- Centered icon to fill vertical space -->
+      <!-- Centered icons and link to fill vertical space -->
       <div align="center">
-        <br> <!-- Add some space above the icon -->
-        🎓
+        <br>
+        💻   🧠   📈
+        <br><br>
+        <a href="https://www.cc.gatech.edu/" target="_blank" style="font-size: smaller; color: #aaaaaa;">
+          College of Computing
+        </a>
+        <br>
       </div>
     </td>
   </tr>
