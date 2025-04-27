@@ -27,28 +27,37 @@
 
 ## 🎓 Education
 
-<div align="center">
-  <a href="https://www.gatech.edu/" target="_blank">
-    <img src="https://brand.gatech.edu/sites/default/files/inline-images/gt-logo-gold.png" alt="Georgia Tech Logo" width="150"/>
-  </a>
-</div>
-
-**Georgia Institute of Technology**  
-*Master of Science - MS, Computer Science*  
-*Aug 2022 - May 2025*
-
-**Relevant Coursework:**
-*   Machine Learning for Trading
-*   Deep Learning
-*   Natural Language Processing
-*   Machine Learning
-*   Knowledge-Based AI
-*   Graduate Algorithms
-*   Software Development Process
-*   Computer Networks
-*   Human-Computer Interaction
-*   Artificial Intelligence, Ethics & Society
-*   Computer Law
+<table>
+  <tr>
+    <td width="35%" valign="top" align="center">
+      <br>
+      <a href="https://www.gatech.edu/" target="_blank">
+        <img src="https://brand.gatech.edu/sites/default/files/inline-images/gt-logo-gold.png" alt="Georgia Tech Logo" width="150"/>
+      </a>
+      <br><br>
+      <strong>Georgia Institute of Technology</strong><br>
+      <em>Master of Science - MS, Computer Science</em><br>
+      <em>Aug 2022 - May 2025</em>
+      <br><br>
+    </td>
+    <td width="65%" valign="top">
+      <strong>Relevant Coursework:</strong>
+      <ul>
+        <li>Machine Learning for Trading</li>
+        <li>Deep Learning</li>
+        <li>Natural Language Processing</li>
+        <li>Machine Learning</li>
+        <li>Knowledge-Based AI</li>
+        <li>Graduate Algorithms</li>
+        <li>Software Development Process</li>
+        <li>Computer Networks</li>
+        <li>Human-Computer Interaction</li>
+        <li>Artificial Intelligence, Ethics & Society</li>
+        <li>Computer Law</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🧠 Innovation Areas
 
@@ -222,7 +231,7 @@
     • 💡 I contribute to open-source ML projects<br>
     • 🎮 I use game theory in ML model optimization<br>
     • 🌱 I'm currently exploring quantum computing<br>
-    • 🎯 2024 Goal: Deploy 5 production ML models<br>
+    • 🎯 2025 Goal: Deploy 5 production ML models<br>
     • 🚀 Building scalable ML systems with FastAPI & K8s
   </details>
 </div>
