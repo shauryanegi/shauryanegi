@@ -52,7 +52,7 @@
       <em>Master of Science - MS, Computer Science</em><br>
       <em>Aug 2022 - May 2025</em>
       <br>
-      <!-- Add GPA, Honors, Thesis Title here if desired -->
+      <!-- Add GPA, Honors, Thesis Title, Specialization here if desired -->
       <!-- e.g., <br><em>GPA: 4.0/4.0</em> -->
       <!-- e.g., <br><em>Specialization: Machine Learning</em> -->
       <br>
@@ -72,9 +72,10 @@
         <li>Artificial Intelligence, Ethics & Society</li>
         <li>Computer Law</li>
       </ul>
+      <!-- Adding more <br> tags here to push content down -->
+      <br><br><br> 
       <!-- Centered icons and link to fill vertical space -->
       <div align="center">
-        <br>
         💻   🧠   📈
         <br><br>
         <a href="https://www.cc.gatech.edu/" target="_blank" style="font-size: smaller; color: #aaaaaa;">
