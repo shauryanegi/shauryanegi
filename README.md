@@ -27,6 +27,12 @@
 
 ## 🎓 Education
 
+<div align="center">
+  <a href="https://www.gatech.edu/" target="_blank">
+    <img src="https://brand.gatech.edu/sites/default/files/inline-images/gt-logo-gold.png" alt="Georgia Tech Logo" width="150"/>
+  </a>
+</div>
+
 **Georgia Institute of Technology**  
 *Master of Science - MS, Computer Science*  
 *Aug 2022 - May 2025*
