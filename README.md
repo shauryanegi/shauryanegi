@@ -36,48 +36,56 @@
 
 ## 🎓 Education
 
-<div align="center">
-  <a href="https://www.gatech.edu/" target="_blank">
-    <img src="https://brand.gatech.edu/sites/default/files/inline-images/gt-logo-gold.png" alt="Georgia Tech Logo" width="180"/>
-  </a>
-</div>
-
-**Georgia Institute of Technology**  
-*Master of Science - MS, Computer Science*  
-*Aug 2022 - May 2025*
-
-**Relevant Coursework:**
-*   Machine Learning for Trading
-*   Deep Learning
-*   Natural Language Processing
-*   Machine Learning
-*   Knowledge-Based AI
-*   Graduate Algorithms
-*   Software Development Process
-*   Computer Networks
-*   Human-Computer Interaction
-*   Artificial Intelligence, Ethics & Society
-*   Computer Law
-
-<br> <!-- Add space before the optional GIF -->
-
-<!-- Optional: Centered Animation to fill space -->
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9Evyhfg/giphy.gif" alt="Coding Animation" width="200">
-  <!-- Replace GIF URL if desired, or remove this whole div if you prefer no animation -->
-</div>
-
-<br> <!-- Add space before the optional link -->
-
-<!-- Optional: Centered Link -->
-<div align="center">
-   <a href="https://www.cc.gatech.edu/" target="_blank" style="font-size: smaller; color: #aaaaaa;">
-     College of Computing
-   </a>
-</div>
-
-<br> <!-- Extra space after the section -->
-
+<table width="100%">
+ <colgroup>
+    <col width="35%">
+    <col width="65%">
+ </colgroup>
+  <tr>
+    <td valign="top" align="center">
+      <br>
+      <a href="https://www.gatech.edu/" target="_blank">
+        <img src="https://brand.gatech.edu/sites/default/files/inline-images/gt-logo-gold.png" alt="Georgia Tech Logo" width="180"/>
+      </a>
+      <br><br>
+      <strong>Georgia Institute of Technology</strong><br>
+      <em>Master of Science - MS, Computer Science</em><br>
+      <em>Aug 2022 - May 2025</em>
+      <br>
+      <!-- Add GPA, Honors, Thesis Title, Specialization here if desired -->
+      <!-- e.g., <br><em>GPA: 4.0/4.0</em> -->
+      <!-- e.g., <br><em>Specialization: Machine Learning</em> -->
+      <br>
+    </td>
+    <td valign="top">
+      <strong>Relevant Coursework:</strong>
+      <ul>
+        <li>Machine Learning for Trading</li>
+        <li>Deep Learning</li>
+        <li>Natural Language Processing</li>
+        <li>Machine Learning</li>
+        <li>Knowledge-Based AI</li>
+        <li>Graduate Algorithms</li>
+        <li>Software Development Process</li>
+        <li>Computer Networks</li>
+        <li>Human-Computer Interaction</li>
+        <li>Artificial Intelligence, Ethics & Society</li>
+        <li>Computer Law</li>
+      </ul>
+      <!-- Adding more <br> tags here to push content down -->
+      <br><br><br> 
+      <!-- Centered icons and link to fill vertical space -->
+      <div align="center">
+        💻   🧠   📈
+        <br><br>
+        <a href="https://www.cc.gatech.edu/" target="_blank" style="font-size: smaller; color: #aaaaaa;">
+          College of Computing
+        </a>
+        <br>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 🧠 Innovation Areas
 
