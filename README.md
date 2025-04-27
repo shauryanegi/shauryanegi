@@ -53,7 +53,6 @@
       <em>Aug 2022 - May 2025</em>
       <br>
       <!-- Add GPA, Honors, Thesis Title, Specialization here if desired -->
-      <!-- e.g., <br><em>GPA: 4.0/4.0</em> -->
       <!-- e.g., <br><em>Specialization: Machine Learning</em> -->
       <br>
     </td>
@@ -72,12 +71,22 @@
         <li>Artificial Intelligence, Ethics & Society</li>
         <li>Computer Law</li>
       </ul>
-      <!-- Adding more <br> tags here to push content down -->
-      <br><br><br> 
-      <!-- Centered icons and link to fill vertical space -->
+      <br> <!-- Space after list -->
+
+      <!-- Centered Animation Placeholder -->
       <div align="center">
-        💻   🧠   📈
-        <br><br>
+        <!-- *** FIND A SUITABLE GIF AND REPLACE THIS SRC URL *** -->
+        <!-- Consider hosting it in your repo for reliability -->
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9Evyhfg/giphy.gif" alt="Coding Animation" width="200">
+        <!-- Example URLs (check licenses/suitability): -->
+        <!-- https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif (Binary) -->
+        <!-- https://media.giphy.com/media/LmNwrBhejkK9Evyhfg/giphy.gif (Abstract Code) -->
+        <!-- https://media.giphy.com/media/17mNCcKU1mUrbwU5eo/giphy.gif (Network/Brain) -->
+      </div>
+
+      <br> <!-- Space before link -->
+      <!-- Centered College Link -->
+      <div align="center">
         <a href="https://www.cc.gatech.edu/" target="_blank" style="font-size: smaller; color: #aaaaaa;">
           College of Computing
         </a>
