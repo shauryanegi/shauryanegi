@@ -1,8 +1,8 @@
 <div align="center">
-  
+
   # Data Scientist & ML Engineer 👨‍🔬
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Data+Architecture+%F0%9F%93%8A;Deep+Learning+%F0%9F%A7%A0;MLOps+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433¢er=true&vCenter=true&width=435&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Data+Architecture+%F0%9F%93%8A;Deep+Learning+%F0%9F%A7%A0;MLOps+%F0%9F%9A%80)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -24,6 +24,25 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%">
 </div>
+
+## 🎓 Education
+
+**Georgia Institute of Technology**  
+*Master of Science - MS, Computer Science*  
+*Aug 2022 - May 2025*
+
+**Relevant Coursework:**
+*   Machine Learning for Trading
+*   Deep Learning
+*   Natural Language Processing
+*   Machine Learning
+*   Knowledge-Based AI
+*   Graduate Algorithms
+*   Software Development Process
+*   Computer Networks
+*   Human-Computer Interaction
+*   Artificial Intelligence, Ethics & Society
+*   Computer Law
 
 ## 🧠 Innovation Areas
 
@@ -127,6 +146,12 @@
 
 </div>
 
+## 🚀 Highlighted Projects
+
+*   **🔹 Reinforcement Learning for Stock Trading:** Developed deep reinforcement learning agents (DDPG, PPO) to optimize trading strategies using historical market data. Focused on maximizing Sharpe ratio and risk-adjusted returns.
+*   **🔹 Attention-Enhanced Image Captioning:** Led the design of a dual-attention architecture combining ResNet50V2 and LSTM for image captioning.
+*   **🔹 Scalable Distributed Key-Value Store:** Built a distributed key-value store using Go and gRPC, implementing consistent hashing, Raft-based consensus, and replication. Engineered for fault tolerance, strong consistency, and horizontal scalability.
+
 ## 🎯 Current Projects
 
 <table>
@@ -172,19 +197,19 @@
 ## 🤝 Let's Connect and Build Something Amazing!
 
 <div align="center">
-  
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shauryanegi/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/shauryanegi)
   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12883012/shauryanegi)
-  
+
   ---
   <h3>🏆 Profile Trophy Showcase</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=shauryanegi&theme=tokyonight&no-frame=true&column=7" width="100%">
-  
+
   ---
   <h3>✨ Visitor Count</h3>
   <img src="https://profile-counter.glitch.me/shauryanegi/count.svg" />
-  
+
   <details>
     <summary>🎉 Fun Facts</summary>
     <br>
