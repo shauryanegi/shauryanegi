@@ -3,6 +3,15 @@
   # Data Scientist & ML Engineer 👨‍🔬
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433¢er=true&vCenter=true&width=435&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Data+Architecture+%F0%9F%93%8A;Deep+Learning+%F0%9F%A7%A0;MLOps+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+  ---
+
+  *I am a data scientist and software engineer specializing in AI, with expertise in building scalable systems and advanced machine learning solutions.*
+  *Passionate about combining cutting-edge research with practical applications, I focus on data science, software engineering, and finance domains.*
+  *I thrive on solving complex problems with innovative, efficient, and impact-driven approaches.*
+
+  ---
+
 </div>
 
 <div align="center">
